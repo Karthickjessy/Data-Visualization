@@ -17,3 +17,5 @@ For the presentation , I focused mainly with the features such as
 2)	Which user type plays a major role in FordGo Bikes ?
 3)	Among the three months which month has more rides ?
 4)	For what purpose those bikes are rented i,e) (Office vs Personal) 
+
+### Focused On : ( Data to Ink Ratio, Lie Factor, Chart Junks, Color, Design Integirity)
